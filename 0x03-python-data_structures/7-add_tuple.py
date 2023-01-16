@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-#7-add_tuple.py
-#Ifeanyi kalu
+
+# 7-add_tuple.py
+
+# Ifeanyi kalu
 
 def add_tuple(tuple_a=(), tuple_b=()):
     """Add two tuples."""
